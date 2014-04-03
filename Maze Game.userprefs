@@ -1,13 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\Interaction\UIButtonTween.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MenuScripts\LevelExit.js">
     <Files>
-      <File FileName="Assets\NGUI\ReadMe - 2.6.3.txt" Line="30" Column="60" />
-      <File FileName="Assets\Futuristic GUI\Readme.txt" Line="1" Column="1" />
-      <File FileName="Assets\MazeGenerator.cs" Line="1" Column="1" />
-      <File FileName="Assets\MenuManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\MainMenuManager.js" Line="1" Column="1" />
-      <File FileName="Assets\NGUI\Scripts\Interaction\UIButtonTween.cs" Line="1" Column="1" />
+      <File FileName="Assets\MenuScripts\Button1.cs" Line="4" Column="1" />
+      <File FileName="Assets\MenuScripts\LevelExit.js" Line="12" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

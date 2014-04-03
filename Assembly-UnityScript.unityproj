@@ -53,6 +53,8 @@
      <Compile Include="Assets\!FPS Prefab Files\~Scene Assets\~AlienNPC\Scripts\Gun.js" />
      <Compile Include="Assets\Futuristic GUI\FuturisticPreviewScript.js" />
      <Compile Include="Assets\MainMenuManager.js" />
+     <Compile Include="Assets\MenuScripts\LevelExit.js" />
+     <Compile Include="Assets\MenuScripts\LevelLoad.js" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
