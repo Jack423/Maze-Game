@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MenuScripts\SwitchMenus.js">
+    <Files>
+      <File FileName="Assets\MenuScripts\SwitchMenus.js" Line="8" Column="9" />
+      <File FileName="Assets\MenuScripts\PlayAnimation.cs" Line="169" Column="47" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIButtonPlayAnimation.cs" Line="20" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
