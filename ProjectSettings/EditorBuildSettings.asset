@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Menu2.unity
+    path: Assets/Menu.unity
   - enabled: 1
     path: Assets/MazeEasy.unity
   - enabled: 1
-    path: Assets/MazeHard.unity
+    path: Assets/Hard.unity
   - enabled: 1
-    path: Assets/MazeEvenHarder.unity
+    path: Assets/EvenHarder.unity
   - enabled: 1
-    path: Assets/INSANE.unity
+    path: Assets/INSANE!.unity

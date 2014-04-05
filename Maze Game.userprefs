@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MenuScripts\LevelExit.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Maze-Game\Assets\MenuScripts\PlayAnimation.cs">
     <Files>
-      <File FileName="Assets\MenuScripts\Button1.cs" Line="4" Column="1" />
-      <File FileName="Assets\MenuScripts\LevelExit.js" Line="12" Column="20" />
+      <File FileName="..\Maze-Game\Assets\MenuScripts\SwitchToCredits.js" Line="20" Column="44" />
+      <File FileName="..\Maze-Game\Assets\MenuScripts\PlayAnimation.cs" Line="169" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

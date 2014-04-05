@@ -12,7 +12,7 @@ using AnimationOrTween;
 /// </summary>
 
 [AddComponentMenu("NGUI/Interaction/Button Play Animation")]
-public class PlayAnimation : MonoBehaviour
+public class UIButtonPlayAnimation : MonoBehaviour
 {
 	/// <summary>
 	/// Target animation to activate.

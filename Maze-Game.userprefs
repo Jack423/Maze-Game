@@ -1,10 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MenuScripts\SwitchMenus.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LevelComplete.js">
     <Files>
-      <File FileName="Assets\MenuScripts\SwitchMenus.js" Line="8" Column="9" />
-      <File FileName="Assets\MenuScripts\PlayAnimation.cs" Line="169" Column="47" />
-      <File FileName="Assets\NGUI\Scripts\Interaction\UIButtonPlayAnimation.cs" Line="20" Column="2" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIButtonPlayAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\MenuScripts\SwitchMenus.js" Line="1" Column="1" />
+      <File FileName="Assets\LevelComplete.js" Line="8" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

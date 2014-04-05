@@ -78,7 +78,6 @@
      <Compile Include="Assets\6by7\ProBuilder\Classes\pbVersionBridge.cs" />
      <Compile Include="Assets\MazeGenerator.cs" />
      <Compile Include="Assets\MenuManager.cs" />
-     <Compile Include="Assets\MenuScripts\PlayAnimation.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipItems.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" />
