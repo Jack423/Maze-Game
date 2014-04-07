@@ -51,6 +51,7 @@
      <Compile Include="Assets\!FPS Prefab Files\~Scene Assets\~AlienNPC\Scripts\AutoWayPoint.js" />
      <Compile Include="Assets\!FPS Prefab Files\~Scene Assets\~AlienNPC\Scripts\CharacterDamage.js" />
      <Compile Include="Assets\!FPS Prefab Files\~Scene Assets\~AlienNPC\Scripts\Gun.js" />
+     <Compile Include="Assets\CheatModeToggle.js" />
      <Compile Include="Assets\Futuristic GUI\FuturisticPreviewScript.js" />
      <Compile Include="Assets\LevelComplete.js" />
      <Compile Include="Assets\MainMenuManager.js" />

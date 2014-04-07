@@ -10,8 +10,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MazeEasy.unity
   - enabled: 1
-    path: Assets/Hard.unity
-  - enabled: 1
     path: Assets/EvenHarder.unity
+  - enabled: 1
+    path: Assets/Hard.unity
   - enabled: 1
     path: Assets/INSANE!.unity
